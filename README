@@ -1,0 +1,3 @@
+A place for collaboration as I work through the 99 Lisp Problems that can be found at http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+
+The clojure folder holds my attempts in Clojure.  There will probably be clisp and Scheme folders as well, eventually.
